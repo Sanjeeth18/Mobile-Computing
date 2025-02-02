@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">four</string>
+    <string-array name="country">
+        <item>Select a Country</item>
+
+        <item>India</item>
+        <item>China</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
